@@ -1,0 +1,10 @@
+D:\c##\Eletric\Eletric\bin\Debug\Eletric.exe.config
+D:\c##\Eletric\Eletric\bin\Debug\Eletric.exe
+D:\c##\Eletric\Eletric\bin\Debug\Eletric.pdb
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.csproj.AssemblyReference.cache
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.csproj.SuggestedBindingRedirects.cache
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.Form1.resources
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.csproj.GenerateResource.cache
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.csproj.CoreCompileInputs.cache
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.exe
+D:\c##\Eletric\Eletric\obj\Debug\Eletric.pdb

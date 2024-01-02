@@ -1,0 +1,11 @@
+D:\c##\Eletric\EletricFrom\bin\Debug\EletricFrom.exe.config
+D:\c##\Eletric\EletricFrom\bin\Debug\EletricFrom.exe
+D:\c##\Eletric\EletricFrom\bin\Debug\EletricFrom.pdb
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.csproj.AssemblyReference.cache
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.csproj.SuggestedBindingRedirects.cache
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.Properties.Resources.resources
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.csproj.GenerateResource.cache
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.csproj.CoreCompileInputs.cache
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.exe
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.pdb
+D:\c##\Eletric\EletricFrom\obj\Debug\EletricFrom.Form1.resources
